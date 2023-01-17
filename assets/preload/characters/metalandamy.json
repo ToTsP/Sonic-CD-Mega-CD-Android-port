@@ -1,0 +1,134 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-132,
+				-170
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP-alt",
+			"indices": [
+				0,
+				1
+			],
+			"name": "sonamy up alt"
+		},
+		{
+			"offsets": [
+				-175,
+				-170
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT-alt",
+			"indices": [
+				0,
+				1
+			],
+			"name": "sonamy left alt"
+		},
+		{
+			"offsets": [
+				-175,
+				-170
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT-alt",
+			"indices": [
+				0,
+				1
+			],
+			"name": "sonamy right alt"
+		},
+		{
+			"offsets": [
+				-175,
+				-170
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN-alt",
+			"indices": [
+				0,
+				1
+			],
+			"name": "sonamy down alt"
+		},
+		{
+			"offsets": [
+				-175,
+				-170
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "AngryMetal idle"
+		},
+		{
+			"offsets": [
+				-385,
+				-316
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "AngryMetal right"
+		},
+		{
+			"offsets": [
+				-305,
+				-190
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "AngryMetal down"
+		},
+		{
+			"offsets": [
+				-225,
+				-160
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "AngryMetal up"
+		},
+		{
+			"offsets": [
+				-245,
+				-170
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "AngryMetal left"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/angrymetal",
+	"position": [
+		20,
+		-170
+	],
+	"healthicon": "pixelmetal",
+	"flip_x": false,
+	"healthbar_colors": [
+		87,
+		119,
+		230
+	],
+	"camera_position": [
+		-70,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 4.80000000000002
+}

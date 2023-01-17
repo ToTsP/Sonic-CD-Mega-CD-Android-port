@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-50,
+				10
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "mettal idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "mettal left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				70
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "mettal down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "mettal right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-110
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "mettal up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/mettal",
+	"position": [
+		290,
+		440
+	],
+	"healthicon": "pixelmetal",
+	"flip_x": false,
+	"healthbar_colors": [
+		36,
+		36,
+		144
+	],
+	"camera_position": [
+		-480,
+		-700
+	],
+	"sing_duration": 2.8,
+	"scale": 10
+}

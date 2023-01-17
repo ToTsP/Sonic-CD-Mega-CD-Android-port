@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				550,
+				210
+			],
+			"loop": false,
+			"fps": 11,
+			"anim": "idle",
+			"indices": [],
+			"name": "AmyRose idle"
+		},
+		{
+			"offsets": [
+				572,
+				199
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "AmyRose left"
+		},
+		{
+			"offsets": [
+				550,
+				206
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "AmyRose down"
+		},
+		{
+			"offsets": [
+				534,
+				203
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "AmyRose right"
+		},
+		{
+			"offsets": [
+				550,
+				224
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singUP",
+			"indices": [],
+			"name": "AmyRose up"
+		},
+		{
+			"offsets": [
+				550,
+				210
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "wtf",
+			"loop": false,
+			"name": "AmyRose man"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AmyRose",
+	"position": [
+		440,
+		275
+	],
+	"healthicon": "amy",
+	"flip_x": false,
+	"healthbar_colors": [
+		202,
+		121,
+		164
+	],
+	"camera_position": [
+		-810,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

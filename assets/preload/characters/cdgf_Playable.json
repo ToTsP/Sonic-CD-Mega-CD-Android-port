@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "CDGF idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				1
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "CDGF down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 14,
+			"name": "CDGF up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWNmiss",
+			"fps": 14,
+			"name": "CDGF D",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUPmiss",
+			"fps": 14,
+			"name": "CDGF U",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-11,
+				0
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "CDGF left"
+		},
+		{
+			"offsets": [
+				31,
+				0
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "CDGF right"
+		},
+		{
+			"offsets": [
+				6,
+				3
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "CDGF R"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "CDGF L"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cryaboutit",
+	"position": [
+		-350,
+		130
+	],
+	"healthicon": "gfhot",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		40,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

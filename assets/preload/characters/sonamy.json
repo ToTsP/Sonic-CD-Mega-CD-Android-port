@@ -1,0 +1,90 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-175,
+				-170
+			],
+			"anim": "idle",
+			"fps": 14,
+			"name": "sonamy idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-175,
+				-170
+			],
+			"indices": [
+				0,
+				1
+			],
+			"fps": 14,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "sonamy right both"
+		},
+		{
+			"offsets": [
+				-175,
+				-170
+			],
+			"indices": [
+				0,
+				1
+			],
+			"fps": 14,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "sonamy down both"
+		},
+		{
+			"offsets": [
+				-175,
+				-170
+			],
+			"indices": [
+				0,
+				1
+			],
+			"fps": 14,
+			"anim": "singUP",
+			"loop": false,
+			"name": "sonamy up both"
+		},
+		{
+			"offsets": [
+				-175,
+				-170
+			],
+			"indices": [
+				0,
+				1
+			],
+			"fps": 14,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "sonamy left both"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/sonamy",
+	"position": [
+		100,
+		340
+	],
+	"healthicon": "cd",
+	"flip_x": false,
+	"healthbar_colors": [
+		87,
+		119,
+		230
+	],
+	"camera_position": [
+		-70,
+		-140
+	],
+	"sing_duration": 4,
+	"scale": 10
+}

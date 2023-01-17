@@ -1,0 +1,185 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-129,
+				-151
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-129,
+				-150
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1
+			],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-129,
+				-151
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1
+			],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-130,
+				-150
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "left miss"
+		},
+		{
+			"offsets": [
+				-131,
+				-150
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "down miss"
+		},
+		{
+			"offsets": [
+				-129,
+				-150
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "up miss"
+		},
+		{
+			"offsets": [
+				-129,
+				-151
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "right miss"
+		},
+		{
+			"offsets": [
+				-130,
+				-150
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "firstDeath",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "dead"
+		},
+		{
+			"offsets": [
+				-131,
+				-150
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "dead loop"
+		},
+		{
+			"offsets": [
+				-130,
+				-150
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "dead confirm"
+		},
+		{
+			"offsets": [
+				-129,
+				-151
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-130,
+				-150
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bfpov",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "pixelbf",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		162,
+		232
+	],
+	"camera_position": [
+		210,
+		-170
+	],
+	"sing_duration": 4,
+	"scale": 10
+}

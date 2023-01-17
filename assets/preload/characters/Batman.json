@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "Batman idle"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Batman up"
+		},
+		{
+			"offsets": [
+				11,
+				-10
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Batman left"
+		},
+		{
+			"offsets": [
+				-31,
+				-11
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Batman right"
+		},
+		{
+			"offsets": [
+				0,
+				-2
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Batman down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Batman",
+	"position": [
+		-570,
+		-250
+	],
+	"healthicon": "batman",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		87,
+		56
+	],
+	"camera_position": [
+		350,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

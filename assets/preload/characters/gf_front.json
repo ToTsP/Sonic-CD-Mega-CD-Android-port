@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "CDDGF idle"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "CDDGF idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/big_boobies",
+	"position": [
+		-460,
+		-380
+	],
+	"healthicon": "gfhot",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-130,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

@@ -1,0 +1,61 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 16,
+			"name": "egg idle",
+			"indices": [
+				12,
+				13,
+				0,
+				1,
+				2,
+				3,
+				4
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 16,
+			"name": "egg idle",
+			"indices": [
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/djegg",
+	"position": [
+		350,
+		300
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-270,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 10
+}

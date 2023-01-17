@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": " idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1005,
+				492
+			],
+			"anim": "cutscene",
+			"fps": 12,
+			"name": " cut1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				340,
+				270
+			],
+			"anim": "cutscene2",
+			"fps": 12,
+			"name": " cut2",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": " left"
+		},
+		{
+			"offsets": [
+				-13,
+				-3
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": false,
+			"name": " up"
+		},
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": " down"
+		},
+		{
+			"offsets": [
+				-8,
+				-2
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": " right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/angrytoei",
+	"position": [
+		70,
+		450
+	],
+	"healthicon": "pixelcd",
+	"flip_x": true,
+	"healthbar_colors": [
+		36,
+		36,
+		144
+	],
+	"camera_position": [
+		170,
+		-80
+	],
+	"sing_duration": 4,
+	"scale": 2.5
+}

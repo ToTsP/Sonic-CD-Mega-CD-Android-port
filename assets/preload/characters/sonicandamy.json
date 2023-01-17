@@ -1,0 +1,146 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-175,
+				-170
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1
+			],
+			"name": "sonamy right"
+		},
+		{
+			"offsets": [
+				-175,
+				-170
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1
+			],
+			"name": "sonamy down"
+		},
+		{
+			"offsets": [
+				-175,
+				-170
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1
+			],
+			"name": "sonamy up"
+		},
+		{
+			"offsets": [
+				-175,
+				-170
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1
+			],
+			"name": "sonamy left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-175,
+				-170
+			],
+			"anim": "singUP-alt",
+			"fps": 14,
+			"name": "sonamy up alt",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-175,
+				-170
+			],
+			"anim": "singLEFT-alt",
+			"fps": 14,
+			"name": "sonamy left alt",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-175,
+				-170
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 14,
+			"name": "sonamy right alt",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-175,
+				-170
+			],
+			"anim": "singDOWN-alt",
+			"fps": 14,
+			"name": "sonamy down alt",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"offsets": [
+				-175,
+				-170
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "sonamy idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/sonamy",
+	"position": [
+		100,
+		340
+	],
+	"healthicon": "sonicandamy",
+	"flip_x": false,
+	"healthbar_colors": [
+		87,
+		119,
+		230
+	],
+	"camera_position": [
+		-70,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 10
+}

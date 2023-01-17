@@ -1,0 +1,118 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				317,
+				142
+			],
+			"anim": "cheer",
+			"fps": 13,
+			"name": "CDGF1 up",
+			"indices": [
+				0,
+				1,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				484,
+				274
+			],
+			"anim": "sad",
+			"fps": 13,
+			"name": "CDGF1 cringe",
+			"indices": [
+				0,
+				1,
+				2,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "gf dance"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "gf dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mommy",
+	"position": [
+		97,
+		177
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-180,
+		-140
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

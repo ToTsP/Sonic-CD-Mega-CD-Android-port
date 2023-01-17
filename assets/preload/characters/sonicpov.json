@@ -1,0 +1,183 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-59,
+				-170
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1
+			],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-120,
+				-170
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1
+			],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-140,
+				-170
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1
+			],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-131,
+				-170
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1
+			],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-60,
+				-170
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHTmiss",
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"name": "right miss"
+		},
+		{
+			"offsets": [
+				-130,
+				-170
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFTmiss",
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"name": "left miss"
+		},
+		{
+			"offsets": [
+				-130,
+				-170
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWNmiss",
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"name": "down miss"
+		},
+		{
+			"offsets": [
+				-140,
+				-170
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUPmiss",
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"name": "up miss"
+		},
+		{
+			"offsets": [
+				-131,
+				-170
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "die"
+		},
+		{
+			"offsets": [
+				-131,
+				-170
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "confirm"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-131,
+				-170
+			],
+			"anim": "deathLoop",
+			"fps": 12,
+			"name": "dead loop",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-130,
+				-170
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": true,
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/sonicpov",
+	"position": [
+		120,
+		290
+	],
+	"healthicon": "pixelcd",
+	"flip_x": false,
+	"healthbar_colors": [
+		36,
+		36,
+		144
+	],
+	"camera_position": [
+		50,
+		-140
+	],
+	"sing_duration": 5.7,
+	"scale": 10
+}

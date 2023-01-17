@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-170,
+				210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "alerted idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-165,
+				181
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "alerted sonic left instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-270,
+				259
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "alerted up instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-169,
+				222
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "alerted down instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-313,
+				186
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "alerted right instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/alerted_sonic",
+	"position": [
+		-360,
+		180
+	],
+	"healthicon": "alert",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		85,
+		255
+	],
+	"camera_position": [
+		-20,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}
