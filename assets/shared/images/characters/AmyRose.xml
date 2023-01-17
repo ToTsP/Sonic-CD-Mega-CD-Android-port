@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="AmyRose.png">
+<SubTexture name="AmyRose idle0000" x="1894" y="445" width="316" height="443" frameX="-242" frameY="-251" frameWidth="1100" frameHeight="800" />
+<SubTexture name="AmyRose idle0001" x="1577" y="899" width="316" height="446" frameX="-243" frameY="-248" frameWidth="1100" frameHeight="800" />
+<SubTexture name="AmyRose idle0002" x="1577" y="451" width="317" height="448" frameX="-242" frameY="-246" frameWidth="1100" frameHeight="800" />
+<SubTexture name="AmyRose idle0003" x="1577" y="0" width="317" height="451" frameX="-241" frameY="-243" frameWidth="1100" frameHeight="800" />
+<SubTexture name="AmyRose idle0004" x="1003" y="992" width="318" height="452" frameX="-241" frameY="-242" frameWidth="1100" frameHeight="800" />
+<SubTexture name="AmyRose idle0005" x="685" y="992" width="318" height="453" frameX="-241" frameY="-241" frameWidth="1100" frameHeight="800" />
+<SubTexture name="AmyRose up0000" x="0" y="0" width="298" height="511" frameX="-275" frameY="-196" frameWidth="1100" frameHeight="800" />
+<SubTexture name="AmyRose up0001" x="298" y="0" width="299" height="505" frameX="-273" frameY="-203" frameWidth="1100" frameHeight="800" />
+<SubTexture name="AmyRose up0002" x="597" y="0" width="299" height="501" frameX="-272" frameY="-207" frameWidth="1100" frameHeight="800" />
+<SubTexture name="AmyRose up0003" x="597" y="0" width="299" height="501" frameX="-272" frameY="-207" frameWidth="1100" frameHeight="800" />
+<SubTexture name="AmyRose down0000" x="1894" y="0" width="351" height="445" frameX="-246" frameY="-249" frameWidth="1100" frameHeight="800" />
+<SubTexture name="AmyRose down0001" x="340" y="992" width="345" height="454" frameX="-249" frameY="-240" frameWidth="1100" frameHeight="800" />
+<SubTexture name="AmyRose down0002" x="0" y="992" width="340" height="458" frameX="-252" frameY="-236" frameWidth="1100" frameHeight="800" />
+<SubTexture name="AmyRose down0003" x="0" y="992" width="340" height="458" frameX="-252" frameY="-236" frameWidth="1100" frameHeight="800" />
+<SubTexture name="AmyRose left0000" x="321" y="511" width="323" height="480" frameX="-201" frameY="-202" frameWidth="1100" frameHeight="800" />
+<SubTexture name="AmyRose left0001" x="0" y="511" width="321" height="481" frameX="-206" frameY="-201" frameWidth="1100" frameHeight="800" />
+<SubTexture name="AmyRose left0002" x="896" y="0" width="321" height="482" frameX="-208" frameY="-200" frameWidth="1100" frameHeight="800" />
+<SubTexture name="AmyRose left0003" x="896" y="0" width="321" height="482" frameX="-208" frameY="-200" frameWidth="1100" frameHeight="800" />
+<SubTexture name="AmyRose right0000" x="644" y="511" width="359" height="472" frameX="-232" frameY="-218" frameWidth="1100" frameHeight="800" />
+<SubTexture name="AmyRose right0001" x="1217" y="0" width="360" height="471" frameX="-226" frameY="-219" frameWidth="1100" frameHeight="800" />
+<SubTexture name="AmyRose right0002" x="1217" y="471" width="360" height="470" frameX="-224" frameY="-220" frameWidth="1100" frameHeight="800" />
+<SubTexture name="AmyRose right0003" x="1217" y="471" width="360" height="470" frameX="-224" frameY="-220" frameWidth="1100" frameHeight="800" />
+</TextureAtlas>

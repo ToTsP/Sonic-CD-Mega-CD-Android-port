@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pixelgirlguy.png">
+<SubTexture name="pixelgirlguy idle0000" x="700" y="0" width="184" height="248" frameX="-32" frameY="-80" frameWidth="276" frameHeight="400" />
+<SubTexture name="pixelgirlguy idle0001" x="520" y="256" width="176" height="252" frameX="-40" frameY="-76" frameWidth="276" frameHeight="400" />
+<SubTexture name="pixelgirlguy idle0002" x="168" y="0" width="180" height="256" frameX="-44" frameY="-72" frameWidth="276" frameHeight="400" />
+<SubTexture name="pixelgirlguy idle0003" x="348" y="0" width="172" height="256" frameX="-56" frameY="-72" frameWidth="276" frameHeight="400" />
+<SubTexture name="pixelgirlguy idle0004" x="0" y="0" width="168" height="260" frameX="-56" frameY="-68" frameWidth="276" frameHeight="400" />
+<SubTexture name="pixelgirlguy idle0005" x="0" y="260" width="176" height="256" frameX="-44" frameY="-72" frameWidth="276" frameHeight="400" />
+<SubTexture name="pixelgirlguy scared0000" x="176" y="260" width="176" height="256" frameX="-44" frameY="-72" frameWidth="276" frameHeight="400" />
+<SubTexture name="pixelgirlguy scared0001" x="520" y="0" width="180" height="256" frameX="-40" frameY="-72" frameWidth="276" frameHeight="400" />
+<SubTexture name="pixelgirlguy scared0002" x="176" y="260" width="176" height="256" frameX="-44" frameY="-72" frameWidth="276" frameHeight="400" />
+<SubTexture name="pixelgirlguy scared0003" x="520" y="0" width="180" height="256" frameX="-40" frameY="-72" frameWidth="276" frameHeight="400" />
+<SubTexture name="pixelgirlguy scared0004" x="176" y="260" width="176" height="256" frameX="-44" frameY="-72" frameWidth="276" frameHeight="400" />
+<SubTexture name="pixelgirlguy scared0005" x="520" y="0" width="180" height="256" frameX="-40" frameY="-72" frameWidth="276" frameHeight="400" />
+</TextureAtlas>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sonamy.png">
+<SubTexture name="sonamy idle0000" x="248" y="0" width="41" height="37" frameX="-1" frameY="-5" frameWidth="42" frameHeight="43" />
+<SubTexture name="sonamy idle0001" x="126" y="208" width="41" height="38" frameX="-1" frameY="-4" frameWidth="42" frameHeight="43" />
+<SubTexture name="sonamy idle0002" x="42" y="129" width="41" height="39" frameX="-1" frameY="-4" frameWidth="42" frameHeight="43" />
+<SubTexture name="sonamy idle0003" x="83" y="129" width="41" height="39" frameX="-1" frameY="-4" frameWidth="42" frameHeight="43" />
+<SubTexture name="sonamy idle0004" x="124" y="129" width="41" height="39" frameX="-1" frameY="-4" frameWidth="42" frameHeight="43" />
+<SubTexture name="sonamy idle0005" x="165" y="129" width="41" height="39" frameX="-1" frameY="-4" frameWidth="42" frameHeight="43" />
+<SubTexture name="sonamy idle0006" x="0" y="169" width="41" height="39" frameX="-1" frameY="-4" frameWidth="42" frameHeight="43" />
+<SubTexture name="sonamy idle0007" x="41" y="169" width="41" height="39" frameX="-1" frameY="-4" frameWidth="42" frameHeight="43" />
+<SubTexture name="sonamy idle0008" x="124" y="129" width="41" height="39" frameX="-1" frameY="-4" frameWidth="42" frameHeight="43" />
+<SubTexture name="sonamy left0000" x="82" y="169" width="41" height="39" frameX="-1" frameY="-4" frameWidth="42" frameHeight="43" />
+<SubTexture name="sonamy left0001" x="123" y="169" width="41" height="39" frameX="-1" frameY="-4" frameWidth="42" frameHeight="43" />
+<SubTexture name="sonamy down0000" x="164" y="169" width="41" height="39" frameX="-1" frameY="-4" frameWidth="42" frameHeight="43" />
+<SubTexture name="sonamy down0001" x="210" y="0" width="38" height="39" frameX="-4" frameY="-4" frameWidth="42" frameHeight="43" />
+<SubTexture name="sonamy right0000" x="0" y="208" width="42" height="39" frameX="0" frameY="-4" frameWidth="42" frameHeight="43" />
+<SubTexture name="sonamy right0001" x="167" y="208" width="42" height="38" frameX="0" frameY="-4" frameWidth="42" frameHeight="43" />
+<SubTexture name="sonamy up0000" x="42" y="208" width="42" height="39" frameX="0" frameY="-4" frameWidth="42" frameHeight="43" />
+<SubTexture name="sonamy up0001" x="84" y="208" width="42" height="39" frameX="0" frameY="-4" frameWidth="42" frameHeight="43" />
+<SubTexture name="sonamy left alt0000" x="0" y="0" width="42" height="43" frameX="0" frameY="0" frameWidth="42" frameHeight="43" />
+<SubTexture name="sonamy left alt0001" x="42" y="0" width="42" height="43" frameX="0" frameY="0" frameWidth="42" frameHeight="43" />
+<SubTexture name="sonamy down alt0000" x="84" y="0" width="42" height="43" frameX="0" frameY="0" frameWidth="42" frameHeight="43" />
+<SubTexture name="sonamy down alt0001" x="0" y="43" width="42" height="43" frameX="0" frameY="0" frameWidth="42" frameHeight="43" />
+<SubTexture name="sonamy right alt0000" x="42" y="43" width="42" height="43" frameX="0" frameY="0" frameWidth="42" frameHeight="43" />
+<SubTexture name="sonamy right alt0001" x="84" y="43" width="42" height="43" frameX="0" frameY="0" frameWidth="42" frameHeight="43" />
+<SubTexture name="sonamy up alt0000" x="126" y="0" width="42" height="43" frameX="0" frameY="0" frameWidth="42" frameHeight="43" />
+<SubTexture name="sonamy up alt0001" x="0" y="129" width="42" height="40" frameX="0" frameY="-3" frameWidth="42" frameHeight="43" />
+<SubTexture name="sonamy left both0000" x="126" y="43" width="42" height="43" frameX="0" frameY="0" frameWidth="42" frameHeight="43" />
+<SubTexture name="sonamy left both0001" x="0" y="86" width="42" height="43" frameX="0" frameY="0" frameWidth="42" frameHeight="43" />
+<SubTexture name="sonamy down both0000" x="42" y="86" width="42" height="43" frameX="0" frameY="0" frameWidth="42" frameHeight="43" />
+<SubTexture name="sonamy down both0001" x="84" y="86" width="38" height="43" frameX="-4" frameY="0" frameWidth="42" frameHeight="43" />
+<SubTexture name="sonamy right both0000" x="122" y="86" width="42" height="43" frameX="0" frameY="0" frameWidth="42" frameHeight="43" />
+<SubTexture name="sonamy right both0001" x="168" y="86" width="42" height="42" frameX="0" frameY="0" frameWidth="42" frameHeight="43" />
+<SubTexture name="sonamy up both0000" x="168" y="0" width="42" height="43" frameX="0" frameY="0" frameWidth="42" frameHeight="43" />
+<SubTexture name="sonamy up both0001" x="168" y="43" width="42" height="43" frameX="0" frameY="0" frameWidth="42" frameHeight="43" />
+</TextureAtlas>

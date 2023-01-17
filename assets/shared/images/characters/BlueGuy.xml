@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BlueGuy.png">
+<SubTexture name="BlueGuy Idle0000" x="456" y="525" width="168" height="144" frameX="-66" frameY="-84" frameWidth="288" frameHeight="300" />
+<SubTexture name="BlueGuy Idle0001" x="615" y="318" width="153" height="153" frameX="-60" frameY="-75" frameWidth="288" frameHeight="300" />
+<SubTexture name="BlueGuy Idle0002" x="450" y="171" width="153" height="159" frameX="-54" frameY="-69" frameWidth="288" frameHeight="300" />
+<SubTexture name="BlueGuy Idle0003" x="786" y="0" width="165" height="135" frameX="-36" frameY="-93" frameWidth="288" frameHeight="300" />
+<SubTexture name="BlueGuy Idle0004" x="0" y="525" width="156" height="150" frameX="-48" frameY="-78" frameWidth="288" frameHeight="300" />
+<SubTexture name="BlueGuy Idle0005" x="0" y="366" width="153" height="159" frameX="-54" frameY="-69" frameWidth="288" frameHeight="300" />
+<SubTexture name="BlueGuy Up0000" x="0" y="0" width="150" height="192" frameX="-57" frameY="-36" frameWidth="288" frameHeight="300" />
+<SubTexture name="BlueGuy Up0001" x="300" y="0" width="150" height="174" frameX="-57" frameY="-54" frameWidth="288" frameHeight="300" />
+<SubTexture name="BlueGuy Up0002" x="150" y="0" width="150" height="177" frameX="-57" frameY="-51" frameWidth="288" frameHeight="300" />
+<SubTexture name="BlueGuy idle0000" x="153" y="366" width="174" height="159" frameX="-78" frameY="-69" frameWidth="288" frameHeight="300" />
+<SubTexture name="BlueGuy Right0000" x="327" y="366" width="165" height="159" frameX="-78" frameY="-69" frameWidth="288" frameHeight="300" />
+<SubTexture name="BlueGuy Right0001" x="615" y="0" width="171" height="159" frameX="-78" frameY="-69" frameWidth="288" frameHeight="300" />
+<SubTexture name="BlueGuy Down0000" x="615" y="159" width="150" height="159" frameX="-78" frameY="-69" frameWidth="288" frameHeight="300" />
+<SubTexture name="BlueGuy Down0001" x="306" y="525" width="150" height="147" frameX="-78" frameY="-81" frameWidth="288" frameHeight="300" />
+<SubTexture name="BlueGuy Down0002" x="156" y="525" width="150" height="150" frameX="-78" frameY="-78" frameWidth="288" frameHeight="300" />
+<SubTexture name="BlueGuy Left0000" x="450" y="0" width="165" height="171" frameX="-18" frameY="-57" frameWidth="288" frameHeight="300" />
+<SubTexture name="BlueGuy Left0001" x="0" y="192" width="162" height="174" frameX="-21" frameY="-54" frameWidth="288" frameHeight="300" />
+<SubTexture name="BlueGuy Left0002" x="162" y="192" width="162" height="174" frameX="-21" frameY="-54" frameWidth="288" frameHeight="300" />
+</TextureAtlas>

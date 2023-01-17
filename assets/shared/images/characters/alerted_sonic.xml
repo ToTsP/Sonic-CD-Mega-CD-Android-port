@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="alerted_sonic.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="alerted down instance 10000" x="0" y="0" width="787" height="733"/>
+	<SubTexture name="alerted down instance 10001" x="787" y="0" width="787" height="733"/>
+	<SubTexture name="alerted down instance 10002" x="1574" y="0" width="787" height="733"/>
+	<SubTexture name="alerted down instance 10003" x="2361" y="0" width="787" height="733"/>
+	<SubTexture name="alerted down instance 10004" x="3148" y="0" width="787" height="733"/>
+	<SubTexture name="alerted down instance 10005" x="3935" y="0" width="787" height="733"/>
+	<SubTexture name="alerted down instance 10006" x="4722" y="0" width="787" height="733"/>
+	<SubTexture name="alerted down instance 10007" x="5509" y="0" width="787" height="733"/>
+	<SubTexture name="alerted down instance 10008" x="6296" y="0" width="787" height="733"/>
+	<SubTexture name="alerted down instance 10009" x="7083" y="0" width="787" height="733"/>
+	<SubTexture name="alerted down instance 10010" x="0" y="733" width="787" height="733"/>
+	<SubTexture name="alerted down instance 10011" x="787" y="733" width="787" height="733"/>
+	<SubTexture name="alerted down instance 10012" x="1574" y="733" width="787" height="733"/>
+	<SubTexture name="alerted down instance 10013" x="2361" y="733" width="787" height="733"/>
+	<SubTexture name="alerted down instance 10014" x="3148" y="733" width="787" height="733"/>
+	<SubTexture name="alerted idle instance 10000" x="3935" y="733" width="745" height="736"/>
+	<SubTexture name="alerted idle instance 10001" x="4680" y="733" width="745" height="736"/>
+	<SubTexture name="alerted idle instance 10002" x="5425" y="733" width="745" height="736"/>
+	<SubTexture name="alerted idle instance 10003" x="6170" y="733" width="745" height="736"/>
+	<SubTexture name="alerted idle instance 10004" x="6915" y="733" width="745" height="736"/>
+	<SubTexture name="alerted idle instance 10005" x="0" y="1469" width="745" height="736"/>
+	<SubTexture name="alerted idle instance 10006" x="745" y="1469" width="745" height="736"/>
+	<SubTexture name="alerted idle instance 10007" x="1490" y="1469" width="745" height="736"/>
+	<SubTexture name="alerted idle instance 10008" x="2235" y="1469" width="745" height="736"/>
+	<SubTexture name="alerted idle instance 10009" x="2980" y="1469" width="745" height="736"/>
+	<SubTexture name="alerted idle instance 10010" x="3725" y="1469" width="745" height="736"/>
+	<SubTexture name="alerted idle instance 10011" x="4470" y="1469" width="745" height="736"/>
+	<SubTexture name="alerted idle instance 10012" x="5215" y="1469" width="745" height="736"/>
+	<SubTexture name="alerted idle instance 10013" x="5960" y="1469" width="745" height="736"/>
+	<SubTexture name="alerted idle instance 10014" x="6705" y="1469" width="745" height="736"/>
+	<SubTexture name="alerted idle instance 10015" x="0" y="2205" width="745" height="736"/>
+	<SubTexture name="alerted right instance 10000" x="745" y="2205" width="643" height="709"/>
+	<SubTexture name="alerted right instance 10001" x="1388" y="2205" width="643" height="709"/>
+	<SubTexture name="alerted right instance 10002" x="2031" y="2205" width="643" height="709"/>
+	<SubTexture name="alerted right instance 10003" x="2674" y="2205" width="643" height="709"/>
+	<SubTexture name="alerted right instance 10004" x="3317" y="2205" width="643" height="709"/>
+	<SubTexture name="alerted right instance 10005" x="3960" y="2205" width="643" height="709"/>
+	<SubTexture name="alerted right instance 10006" x="4603" y="2205" width="643" height="709"/>
+	<SubTexture name="alerted right instance 10007" x="5246" y="2205" width="643" height="709"/>
+	<SubTexture name="alerted right instance 10008" x="5889" y="2205" width="643" height="709"/>
+	<SubTexture name="alerted right instance 10009" x="6532" y="2205" width="643" height="709"/>
+	<SubTexture name="alerted right instance 10010" x="7175" y="2205" width="643" height="709"/>
+	<SubTexture name="alerted right instance 10011" x="0" y="2941" width="643" height="709"/>
+	<SubTexture name="alerted right instance 10012" x="643" y="2941" width="643" height="709"/>
+	<SubTexture name="alerted right instance 10013" x="1286" y="2941" width="643" height="709"/>
+	<SubTexture name="alerted right instance 10014" x="1929" y="2941" width="643" height="709"/>
+	<SubTexture name="alerted sonic left instance 10000" x="2572" y="2941" width="705" height="710"/>
+	<SubTexture name="alerted sonic left instance 10001" x="3277" y="2941" width="705" height="710"/>
+	<SubTexture name="alerted sonic left instance 10002" x="3982" y="2941" width="705" height="710"/>
+	<SubTexture name="alerted sonic left instance 10003" x="4687" y="2941" width="705" height="710"/>
+	<SubTexture name="alerted sonic left instance 10004" x="5392" y="2941" width="705" height="710"/>
+	<SubTexture name="alerted sonic left instance 10005" x="6097" y="2941" width="705" height="710"/>
+	<SubTexture name="alerted sonic left instance 10006" x="6802" y="2941" width="705" height="710"/>
+	<SubTexture name="alerted sonic left instance 10007" x="0" y="3651" width="705" height="710"/>
+	<SubTexture name="alerted sonic left instance 10008" x="705" y="3651" width="705" height="710"/>
+	<SubTexture name="alerted sonic left instance 10009" x="1410" y="3651" width="705" height="710"/>
+	<SubTexture name="alerted sonic left instance 10010" x="2115" y="3651" width="705" height="710"/>
+	<SubTexture name="alerted sonic left instance 10011" x="2820" y="3651" width="705" height="710"/>
+	<SubTexture name="alerted sonic left instance 10012" x="3525" y="3651" width="705" height="710"/>
+	<SubTexture name="alerted sonic left instance 10013" x="4230" y="3651" width="705" height="710"/>
+	<SubTexture name="alerted sonic left instance 10014" x="4935" y="3651" width="705" height="710"/>
+	<SubTexture name="alerted sonic left instance 10015" x="5640" y="3651" width="705" height="710"/>
+	<SubTexture name="alerted up instance 10000" x="6345" y="3651" width="649" height="718"/>
+	<SubTexture name="alerted up instance 10001" x="6994" y="3651" width="649" height="718"/>
+	<SubTexture name="alerted up instance 10002" x="0" y="4369" width="649" height="718"/>
+	<SubTexture name="alerted up instance 10003" x="649" y="4369" width="649" height="718"/>
+	<SubTexture name="alerted up instance 10004" x="1298" y="4369" width="649" height="718"/>
+	<SubTexture name="alerted up instance 10005" x="1947" y="4369" width="649" height="718"/>
+	<SubTexture name="alerted up instance 10006" x="2596" y="4369" width="649" height="718"/>
+	<SubTexture name="alerted up instance 10007" x="3245" y="4369" width="649" height="718"/>
+	<SubTexture name="alerted up instance 10008" x="3894" y="4369" width="649" height="718"/>
+	<SubTexture name="alerted up instance 10009" x="4543" y="4369" width="649" height="718"/>
+	<SubTexture name="alerted up instance 10010" x="5192" y="4369" width="649" height="718"/>
+	<SubTexture name="alerted up instance 10011" x="5841" y="4369" width="649" height="718"/>
+	<SubTexture name="alerted up instance 10012" x="6490" y="4369" width="649" height="718"/>
+	<SubTexture name="alerted up instance 10013" x="7139" y="4369" width="649" height="718"/>
+	<SubTexture name="alerted up instance 10014" x="0" y="5087" width="649" height="718"/>
+</TextureAtlas>

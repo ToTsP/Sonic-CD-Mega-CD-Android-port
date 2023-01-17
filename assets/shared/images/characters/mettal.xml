@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mettal.png">
+<SubTexture name="mettal idle0000" x="308" y="135" width="77" height="91" frameX="-43" frameY="-39" frameWidth="154" frameHeight="135" />
+<SubTexture name="mettal idle0001" x="154" y="270" width="82" height="91" frameX="-38" frameY="-39" frameWidth="154" frameHeight="135" />
+<SubTexture name="mettal idle0002" x="236" y="270" width="84" height="91" frameX="-36" frameY="-39" frameWidth="154" frameHeight="135" />
+<SubTexture name="mettal idle0003" x="320" y="270" width="84" height="91" frameX="-36" frameY="-39" frameWidth="154" frameHeight="135" />
+<SubTexture name="mettal idle0004" x="409" y="0" width="84" height="91" frameX="-36" frameY="-39" frameWidth="154" frameHeight="135" />
+<SubTexture name="mettal idle0005" x="409" y="0" width="84" height="91" frameX="-36" frameY="-39" frameWidth="154" frameHeight="135" />
+<SubTexture name="mettal idle0006" x="409" y="0" width="84" height="91" frameX="-36" frameY="-39" frameWidth="154" frameHeight="135" />
+<SubTexture name="mettal idle0007" x="409" y="91" width="84" height="91" frameX="-36" frameY="-39" frameWidth="154" frameHeight="135" />
+<SubTexture name="mettal idle0008" x="409" y="182" width="72" height="91" frameX="-39" frameY="-39" frameWidth="154" frameHeight="135" />
+<SubTexture name="mettal left0000" x="493" y="0" width="100" height="91" frameX="-32" frameY="-39" frameWidth="154" frameHeight="135" />
+<SubTexture name="mettal left0001" x="493" y="91" width="100" height="66" frameX="-34" frameY="-40" frameWidth="154" frameHeight="135" />
+<SubTexture name="mettal up0000" x="0" y="0" width="140" height="135" frameX="-14" frameY="0" frameWidth="154" frameHeight="135" />
+<SubTexture name="mettal up0001" x="140" y="0" width="115" height="135" frameX="-39" frameY="0" frameWidth="154" frameHeight="135" />
+<SubTexture name="mettal right0000" x="255" y="0" width="154" height="135" frameX="0" frameY="0" frameWidth="154" frameHeight="135" />
+<SubTexture name="mettal right0001" x="0" y="135" width="154" height="135" frameX="0" frameY="0" frameWidth="154" frameHeight="135" />
+<SubTexture name="mettal down0000" x="154" y="135" width="154" height="135" frameX="0" frameY="0" frameWidth="154" frameHeight="135" />
+<SubTexture name="mettal down0001" x="0" y="270" width="154" height="135" frameX="0" frameY="0" frameWidth="154" frameHeight="135" />
+</TextureAtlas>

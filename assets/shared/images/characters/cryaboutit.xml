@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CDGF.png">
+<SubTexture name="CDGF U0000" x="534" y="0" width="264" height="459" frameX="-327" frameY="-109" frameWidth="900" frameHeight="800" />
+<SubTexture name="CDGF U0001" x="640" y="461" width="262" height="456" frameX="-325" frameY="-112" frameWidth="900" frameHeight="800" />
+<SubTexture name="CDGF R0000" x="798" y="0" width="265" height="458" frameX="-308" frameY="-112" frameWidth="900" frameHeight="800" />
+<SubTexture name="CDGF R0001" x="0" y="0" width="268" height="461" frameX="-302" frameY="-109" frameWidth="900" frameHeight="800" />
+<SubTexture name="CDGF L0000" x="0" y="919" width="292" height="454" frameX="-276" frameY="-129" frameWidth="900" frameHeight="800" />
+<SubTexture name="CDGF L0001" x="0" y="461" width="289" height="458" frameX="-283" frameY="-125" frameWidth="900" frameHeight="800" />
+<SubTexture name="CDGF D0000" x="1687" y="867" width="264" height="402" frameX="-325" frameY="-187" frameWidth="900" frameHeight="800" />
+<SubTexture name="CDGF D0001" x="0" y="1373" width="268" height="408" frameX="-328" frameY="-181" frameWidth="900" frameHeight="800" />
+<SubTexture name="CDGF left0000" x="1063" y="0" width="353" height="456" frameX="-207" frameY="-132" frameWidth="900" frameHeight="800" />
+<SubTexture name="CDGF left0001" x="289" y="461" width="351" height="457" frameX="-217" frameY="-131" frameWidth="900" frameHeight="800" />
+<SubTexture name="CDGF right0000" x="1063" y="456" width="267" height="455" frameX="-334" frameY="-111" frameWidth="900" frameHeight="800" />
+<SubTexture name="CDGF right0001" x="268" y="0" width="266" height="461" frameX="-324" frameY="-105" frameWidth="900" frameHeight="800" />
+<SubTexture name="CDGF down0000" x="542" y="1373" width="275" height="404" frameX="-307" frameY="-182" frameWidth="900" frameHeight="800" />
+<SubTexture name="CDGF down0001" x="268" y="1373" width="274" height="408" frameX="-316" frameY="-178" frameWidth="900" frameHeight="800" />
+<SubTexture name="CDGF up0000" x="292" y="919" width="306" height="454" frameX="-305" frameY="-123" frameWidth="900" frameHeight="800" />
+<SubTexture name="CDGF up0001" x="598" y="919" width="300" height="453" frameX="-307" frameY="-124" frameWidth="900" frameHeight="800" />
+<SubTexture name="CDGF idle0000" x="1687" y="0" width="264" height="434" frameX="-323" frameY="-141" frameWidth="900" frameHeight="800" />
+<SubTexture name="CDGF idle0001" x="1687" y="434" width="262" height="433" frameX="-326" frameY="-142" frameWidth="900" frameHeight="800" />
+<SubTexture name="CDGF idle0002" x="1416" y="898" width="268" height="440" frameX="-325" frameY="-135" frameWidth="900" frameHeight="800" />
+<SubTexture name="CDGF idle0003" x="1416" y="450" width="271" height="448" frameX="-328" frameY="-128" frameWidth="900" frameHeight="800" />
+<SubTexture name="CDGF idle0004" x="1416" y="0" width="271" height="450" frameX="-331" frameY="-126" frameWidth="900" frameHeight="800" />
+<SubTexture name="CDGF idle0005" x="898" y="919" width="272" height="451" frameX="-331" frameY="-125" frameWidth="900" frameHeight="800" />
+</TextureAtlas>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CDDGF.png">
+<SubTexture name="CDDGF idle0000" x="0" y="633" width="261" height="616" frameX="-530" frameY="-364" frameWidth="1330" frameHeight="1500" />
+<SubTexture name="CDDGF idle0001" x="1058" y="0" width="261" height="618" frameX="-525" frameY="-362" frameWidth="1330" frameHeight="1500" />
+<SubTexture name="CDDGF idle0002" x="797" y="0" width="261" height="623" frameX="-526" frameY="-357" frameWidth="1330" frameHeight="1500" />
+<SubTexture name="CDDGF idle0003" x="533" y="0" width="264" height="628" frameX="-525" frameY="-352" frameWidth="1330" frameHeight="1500" />
+<SubTexture name="CDDGF idle0004" x="267" y="0" width="266" height="630" frameX="-527" frameY="-350" frameWidth="1330" frameHeight="1500" />
+<SubTexture name="CDDGF idle0005" x="0" y="0" width="267" height="633" frameX="-527" frameY="-347" frameWidth="1330" frameHeight="1500" />
+</TextureAtlas>
