@@ -1,0 +1,5 @@
+Value 1: dad
+Value 2: bf
+
+0 to disable trail
+1 to enable trail
