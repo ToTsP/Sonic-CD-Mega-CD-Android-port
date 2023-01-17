@@ -1,0 +1,13 @@
+{
+	"confirm_anim": "toeimenu ayo",
+	"idle_anim": "toeimenu idle",
+	"position": [
+		515,
+		135
+	],
+	"scale": 0.7,
+	"idleFPS": 12,
+	"confirmFPS": 24,
+	"image": "toeimenu",
+	"flipX": false
+}

@@ -1,0 +1,13 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "Mental idle",
+	"idleFPS": 12,
+	"confirmFPS": 24,
+	"position": [
+		883,
+		338
+	],
+	"scale": 0.6,
+	"flipX": true,
+	"image": "menumetal"
+}

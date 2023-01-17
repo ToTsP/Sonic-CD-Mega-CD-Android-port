@@ -1,0 +1,13 @@
+{
+	"idle_anim": "BfMenuDance",
+	"image": "MenuBf",
+	"position": [
+		74,
+		21
+	],
+	"flipX": false,
+	"scale": 0.85,
+	"idleFPS": 24,
+	"confirmFPS": 24,
+	"confirm_anim": "Hey"
+}

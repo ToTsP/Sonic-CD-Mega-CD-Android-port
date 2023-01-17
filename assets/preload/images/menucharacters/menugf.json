@@ -1,0 +1,13 @@
+{
+	"idle_anim": "gf dance",
+	"image": "menugf",
+	"position": [
+		4,
+		23
+	],
+	"flipX": false,
+	"scale": 0.7,
+	"idleFPS": 24,
+	"confirmFPS": 24,
+	"confirm_anim": "M Dad Idle"
+}

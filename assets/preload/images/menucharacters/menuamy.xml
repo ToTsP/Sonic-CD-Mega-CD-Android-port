@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menuamy.png">
+<SubTexture name="menuamy idle0000" x="1214" y="446" width="316" height="443" frameX="-242" frameY="-251" frameWidth="1100" frameHeight="800" />
+<SubTexture name="menuamy idle0001" x="1214" y="0" width="316" height="446" frameX="-243" frameY="-248" frameWidth="1100" frameHeight="800" />
+<SubTexture name="menuamy idle0002" x="635" y="511" width="317" height="448" frameX="-242" frameY="-246" frameWidth="1100" frameHeight="800" />
+<SubTexture name="menuamy idle0003" x="318" y="511" width="317" height="451" frameX="-241" frameY="-243" frameWidth="1100" frameHeight="800" />
+<SubTexture name="menuamy idle0004" x="0" y="511" width="318" height="452" frameX="-241" frameY="-242" frameWidth="1100" frameHeight="800" />
+<SubTexture name="menuamy idle0005" x="896" y="0" width="318" height="453" frameX="-241" frameY="-241" frameWidth="1100" frameHeight="800" />
+<SubTexture name="menuamy ayo0000" x="0" y="0" width="298" height="511" frameX="-275" frameY="-196" frameWidth="1100" frameHeight="800" />
+<SubTexture name="menuamy ayo0001" x="298" y="0" width="299" height="505" frameX="-273" frameY="-203" frameWidth="1100" frameHeight="800" />
+<SubTexture name="menuamy ayo0002" x="597" y="0" width="299" height="501" frameX="-272" frameY="-207" frameWidth="1100" frameHeight="800" />
+<SubTexture name="menuamy ayo0003" x="597" y="0" width="299" height="501" frameX="-272" frameY="-207" frameWidth="1100" frameHeight="800" />
+</TextureAtlas>

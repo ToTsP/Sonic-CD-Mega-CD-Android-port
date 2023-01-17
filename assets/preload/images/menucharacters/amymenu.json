@@ -1,0 +1,13 @@
+{
+	"idle_anim": "menuamy idle",
+	"confirm_anim": "menuamy ayo",
+	"position": [
+		325,
+		235
+	],
+	"scale": 0.75,
+	"idleFPS": 11,
+	"confirmFPS": 11,
+	"image": "menuamy",
+	"flipX": false
+}

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mommy.png">
+<SubTexture name="gf dance0000" x="366" y="1497" width="365" height="477" frameX="-1" frameY="-22" frameWidth="364" frameHeight="459" />
+<SubTexture name="gf dance0001" x="366" y="1497" width="365" height="477" frameX="-1" frameY="-22" frameWidth="364" frameHeight="459" />
+<SubTexture name="gf dance0002" x="366" y="1497" width="365" height="477" frameX="-1" frameY="-22" frameWidth="364" frameHeight="459" />
+<SubTexture name="gf dance0003" x="0" y="1497" width="366" height="480" frameX="0" frameY="-19" frameWidth="364" frameHeight="459" />
+<SubTexture name="gf dance0004" x="0" y="1497" width="366" height="480" frameX="0" frameY="-19" frameWidth="364" frameHeight="459" />
+<SubTexture name="gf dance0005" x="1719" y="0" width="359" height="483" frameX="-10" frameY="-16" frameWidth="364" frameHeight="459" />
+<SubTexture name="gf dance0006" x="1719" y="0" width="359" height="483" frameX="-10" frameY="-16" frameWidth="364" frameHeight="459" />
+<SubTexture name="gf dance0007" x="669" y="1008" width="354" height="486" frameX="-20" frameY="-13" frameWidth="364" frameHeight="459" />
+<SubTexture name="gf dance0008" x="669" y="1008" width="354" height="486" frameX="-20" frameY="-13" frameWidth="364" frameHeight="459" />
+<SubTexture name="gf dance0009" x="1032" y="0" width="354" height="489" frameX="-23" frameY="-10" frameWidth="364" frameHeight="459" />
+<SubTexture name="gf dance0010" x="1032" y="0" width="354" height="489" frameX="-23" frameY="-10" frameWidth="364" frameHeight="459" />
+<SubTexture name="gf dance0011" x="1032" y="489" width="354" height="489" frameX="-23" frameY="-10" frameWidth="364" frameHeight="459" />
+<SubTexture name="gf dance0012" x="1032" y="489" width="354" height="489" frameX="-23" frameY="-10" frameWidth="364" frameHeight="459" />
+<SubTexture name="gf dance0013" x="1023" y="1008" width="356" height="486" frameX="-23" frameY="-13" frameWidth="364" frameHeight="459" />
+<SubTexture name="gf dance0014" x="1023" y="1008" width="356" height="486" frameX="-23" frameY="-13" frameWidth="364" frameHeight="459" />
+<SubTexture name="gf dance0015" x="1719" y="961" width="327" height="475" frameX="-61" frameY="-24" frameWidth="364" frameHeight="459" />
+<SubTexture name="gf dance0016" x="1719" y="961" width="327" height="475" frameX="-61" frameY="-24" frameWidth="364" frameHeight="459" />
+<SubTexture name="gf dance0017" x="1719" y="961" width="327" height="475" frameX="-61" frameY="-24" frameWidth="364" frameHeight="459" />
+<SubTexture name="gf dance0018" x="1719" y="483" width="324" height="478" frameX="-63" frameY="-21" frameWidth="364" frameHeight="459" />
+<SubTexture name="gf dance0019" x="1719" y="483" width="324" height="478" frameX="-63" frameY="-21" frameWidth="364" frameHeight="459" />
+<SubTexture name="gf dance0020" x="1386" y="489" width="328" height="487" frameX="-54" frameY="-12" frameWidth="364" frameHeight="459" />
+<SubTexture name="gf dance0021" x="1386" y="489" width="328" height="487" frameX="-54" frameY="-12" frameWidth="364" frameHeight="459" />
+<SubTexture name="gf dance0022" x="1386" y="0" width="333" height="489" frameX="-44" frameY="-10" frameWidth="364" frameHeight="459" />
+<SubTexture name="gf dance0023" x="1386" y="0" width="333" height="489" frameX="-44" frameY="-10" frameWidth="364" frameHeight="459" />
+<SubTexture name="gf dance0024" x="0" y="1008" width="335" height="489" frameX="-42" frameY="-10" frameWidth="364" frameHeight="459" />
+<SubTexture name="gf dance0025" x="648" y="512" width="335" height="490" frameX="-42" frameY="-9" frameWidth="364" frameHeight="459" />
+<SubTexture name="gf dance0026" x="648" y="512" width="335" height="490" frameX="-42" frameY="-9" frameWidth="364" frameHeight="459" />
+<SubTexture name="gf dance0027" x="648" y="512" width="335" height="490" frameX="-42" frameY="-9" frameWidth="364" frameHeight="459" />
+<SubTexture name="gf dance0028" x="335" y="1008" width="334" height="489" frameX="-42" frameY="-10" frameWidth="364" frameHeight="459" />
+<SubTexture name="gf dance0029" x="335" y="1008" width="334" height="489" frameX="-42" frameY="-10" frameWidth="364" frameHeight="459" />
+</TextureAtlas>

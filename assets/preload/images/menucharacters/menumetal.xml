@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Mental.png">
+<SubTexture name="Mental idle0000" x="2255" y="544" width="354" height="538" frameX="-184" frameY="-119" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Mental idle0001" x="501" y="1176" width="354" height="551" frameX="-199" frameY="-106" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Mental idle0002" x="1881" y="548" width="369" height="547" frameX="-208" frameY="-110" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Mental idle0003" x="855" y="1176" width="372" height="549" frameX="-218" frameY="-108" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Mental idle0004" x="1227" y="1176" width="374" height="549" frameX="-221" frameY="-108" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Mental idle0005" x="1881" y="0" width="374" height="548" frameX="-223" frameY="-109" frameWidth="1500" frameHeight="1500" />
+</TextureAtlas>
